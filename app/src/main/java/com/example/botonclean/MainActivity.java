@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
         btn_sig.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent btn_sig = new Intent(MainActivity.this, activity2_clean.class);
+                Intent btn_sig = new Intent(MainActivity.this, Formulario_ingreso.class);
                 startActivity(btn_sig);
             }
         });
