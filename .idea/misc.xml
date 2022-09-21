@@ -6,7 +6,14 @@
         <entry key="..\:/Users/Julian/AndroidStudioProjects/BOTONCLEAN/app/src/main/res/layout/activity_activity2_clean.xml" value="0.335" />
         <entry key="..\:/Users/Julian/AndroidStudioProjects/BOTONCLEAN/app/src/main/res/layout/activity_activity3_horas.xml" value="0.25" />
         <entry key="..\:/Users/Julian/AndroidStudioProjects/BOTONCLEAN/app/src/main/res/layout/activity_formulario_ingreso.xml" value="0.375" />
-        <entry key="..\:/Users/Julian/AndroidStudioProjects/BOTONCLEAN/app/src/main/res/layout/activity_main.xml" value="0.2734375" />
+        <entry key="..\:/Users/Julian/AndroidStudioProjects/BOTONCLEAN/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Julian/AndroidStudioProjects/BOTONCLEAN/app/src/main/res/layout/activity_notificaciones.xml" value="0.335" />
+        <entry key="..\:/Users/Julian/AndroidStudioProjects/BOTONCLEAN/app/src/main/res/layout/activity_pantalla_principal.xml" value="0.25" />
+        <entry key="..\:/Users/Julian/AndroidStudioProjects/BOTONCLEAN/app/src/main/res/layout/activity_principal.xml" value="0.25" />
+        <entry key="..\:/Users/Julian/AndroidStudioProjects/BOTONCLEAN/app/src/main/res/layout/activity_registros.xml" value="0.19610507246376813" />
+        <entry key="..\:/Users/Julian/AndroidStudioProjects/BOTONCLEAN/app/src/main/res/layout/fragment_dashboard.xml" value="0.2734375" />
+        <entry key="..\:/Users/Julian/AndroidStudioProjects/BOTONCLEAN/app/src/main/res/layout/fragment_home.xml" value="0.2734375" />
+        <entry key="..\:/Users/Julian/AndroidStudioProjects/BOTONCLEAN/app/src/main/res/layout/fragment_notifications.xml" value="0.2734375" />
       </map>
     </option>
   </component>
